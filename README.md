@@ -12,7 +12,8 @@ TASK-2
 
 Register form:-
 
-![Screenshot (51)](https://github.com/Heather1238/-ME-Internship/assets/141664785/d0f16bd3-dec5-4cf2-9727-8f76c3f54a61)
+![Screenshot (53)](https://github.com/Heather1238/-ME-Internship/assets/141664785/6bf007c8-533d-438c-b9e7-269585b3fbaf)
+
 
 TASK-3
 
