@@ -40,6 +40,11 @@ Quote Generator:-
 
 ![Screenshot_30-5-2024_75015_127 0 0 1](https://github.com/Heather1238/-ME-Internship/assets/141664785/0474c951-b945-4092-992f-bd6e6adb885b)
 
+TASK-7
+
+Stop-Watch:-
+
+![Screenshot_30-5-2024_75451_127 0 0 1](https://github.com/Heather1238/-ME-Internship/assets/141664785/39ea119d-59ee-406b-b4b3-36c244c1c47b)
 
 
 
