@@ -1,0 +1,58 @@
+body {
+    background-image: url("https://images.pexels.com/photos/1379636/pexels-photo-1379636.jpeg?auto=compress&cs=tinysrgb&w=600");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+section#heading {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 200px auto;
+    width: 50%;
+    background-color: beige;
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.5);
+    padding: 50px;
+    border-radius: 5px;
+    box-sizing: border-box; 
+}
+
+section#heading h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 300;
+}
+
+section#heading #check, section input {
+    width: 100%;
+    font-weight: 900;
+    border: none;
+    font-size: 14px;
+    padding: 15px;
+    box-sizing: border-box; 
+}
+
+section#heading #check {
+    background-color: #014996;
+    color: #fff;
+}
+
+section input {
+    background-color: rgb(205, 205, 211);
+    text-align: center;
+    color: black;
+}
+
+section #check.active {
+    opacity: 1;
+    pointer-events: auto;
+}
+
+.info-text span {
+    color: #014996;
+}
+
+.info-text {
+    display: none;
+    font-size: 19px;
+    text-align: center;
+    margin-bottom: 18px;
+}
